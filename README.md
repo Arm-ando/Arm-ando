@@ -7,7 +7,7 @@ During my biomedical science undergraduate degree I was exposed to bioinformatic
 <h3> Currently:</h3>
 <p>🔭 I’ve recently completed a Python-focussed UK Department for Education-funded Software Engineering bootcamp. 
   
-👨‍💻I am now studying independently to expand my knowledge and skillset by continuing to practice python, SQL and other bioinformatic tools. </p>
+👨‍💻I am now studying independently to expand my knowledge and skillset by continuing to practice python, SQL and other bioinformatic tools. For now, I plan to build a database and more python programs!</p>
 
 📲[Linkedin](https://www.linkedin.com/in/armando-lobete/)
 
