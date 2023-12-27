@@ -2,7 +2,7 @@
 My name is Armando and I'm new to programming.. sort of! 
 
 <h2>About me👨‍🔬</h2>
-During my biomedical science undergraduate degree I was exposed to bioinformatics tools and coding, which left me wanting to explore more.
+During my biomedical science undergraduate degree I was exposed to bioinformatics tools and coding, which left me wanting to explore more. I now work within clinical research where I have been exposed to data management.
 
 <h3> Currently:</h3>
 <p>🔭 I’ve recently completed a Python-focussed UK Department for Education-funded Software Engineering bootcamp. 
